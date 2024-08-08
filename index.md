@@ -7,9 +7,11 @@
 
 ![Image of parentocats](https://octodex.github.com/images/parentocats.png)
 this is a picture.
-```
-
-var myVar = "Hello, world!";
 
 
+
+
+
+```python
+import os
 ```
